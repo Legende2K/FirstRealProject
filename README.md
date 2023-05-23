@@ -13,7 +13,7 @@ Le projet est structuré en deux dossiers principaux :
 
 ### Backend
 
-Le backend est une application Spring Boot qui utilise Maven comme système de build. Pour configurer l'environnement de développement, vous devez installer Java 17 et Maven.
+Le backend est une application Spring Boot qui utilise Maven comme système de build. Pour configurer l'environnement de développement, vous devez installer Java 11 et Maven.
 
 ### Frontend
 
