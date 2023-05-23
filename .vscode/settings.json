@@ -1,3 +1,41 @@
 {
-  "java.compile.nullAnalysis.mode": "automatic"
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.autoIndent": "full",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "files.autoSave": "onFocusChange",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.vscode": true
+  },
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.packageManager": "npm",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.bracketSameLine": true,
+  "prettier.printWidth": 80,
+  "prettier.trailingComma": "all"
 }
